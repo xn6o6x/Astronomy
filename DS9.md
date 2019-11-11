@@ -43,3 +43,9 @@ tags: Astronomy, DS9
 Preferences > Menu
 1. **scale > log**
 2. **color > sls**
+
+---
+## Tips
+
+### Fix Cursor
+`region mode > circle > double click`
